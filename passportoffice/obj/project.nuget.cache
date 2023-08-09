@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uWi9yHiYsccP/HLjxCxhmJePsCq5aQ4sM5TPlW3ygNlhiO+zkKpLtSEQlJJlHyWDb7ix+8+1dJ01/juhqnsFJA==",
+  "dgSpecHash": "4JQ2vRmNOlAswT04gqFvmtYez9Qp7dTT4tGletRTEigj1yOk07xl2iAAD8/hatAG6KdG0ysA9vuDRVPHhBUS7g==",
   "success": true,
   "projectFilePath": "C:\\Amit\\Learning\\passportoffice\\passportoffice\\passportoffice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\amitr\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
   "logs": []
 }
