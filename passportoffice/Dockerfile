@@ -10,7 +10,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["passportoffice/passportoffice.csproj", "passportoffice/"]
+COPY ["../passportoffice/passportoffice.csproj", "passportoffice/"]
 RUN dotnet restore "passportoffice/passportoffice.csproj"
 COPY . .
 WORKDIR "/src/passportoffice"
